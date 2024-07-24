@@ -4,7 +4,7 @@
 </div>
 
 <h2 id="S-Eval">💡 Overview</h2>
-S-Eval is presented towards automated and comprehensive safety evaluation for large language models. So far, S-Eval has 220,000 evaluation prompts in total, including 20,000 base risk prompts (10,000 in Chinese and 10,000 in English) and 200,000 <i>corresponding</i> attack prompts covering 10 advanced jailbreak attacks. These test prompts are generated following a unified risk taxonomy, specifically designed to encompass all crucial dimensions of LLM safety evaluation and meant to accurately reflect the varied safety levels of LLMs across these risk dimensions. 
+S-Eval, a novel LLM-based automated safety assessment framework, is presented towards automated and comprehensive safety evaluation for large language models. So far, Leveraging S-Eval, we construct a new comprehensive, multi-dimensional and open-ended safety evaluation benchmark consisting of 220,000 high-quality test prompts in total, including 20,000 base risk prompts (10,000 in Chinese and 10,000 in English) and 200,000 <i>corresponding</i> attack prompts covering 10 advanced jailbreak attacks. These test prompts are generated following a unified risk taxonomy across 8 dimensions and a total of 102 risk subcategories, which is specifically designed to encompass all crucial dimensions of LLM safety evaluation and meant to accurately reflect the varied safety levels of LLMs across these risk dimensions. 
 
 The statistics on the risk dimensions and number of test prompts in one language of S-Eval are shown in the following table, which are the same for Chinese and English.
 
